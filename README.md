@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/124492893/219856630-0b58c671-c29d-455c-aa8a-e665e10caf46.png)
+![image](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Bhure</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
